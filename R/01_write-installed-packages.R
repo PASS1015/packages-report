@@ -27,4 +27,4 @@ ipt <- installed.packages() %>%
 ## IRL I would might incorporate a date, but clunky for today's purpose
 ## e.g., here("data", paste0(Sys.Date(),"_installed-packages.csv"))
 
- View(ipt)
+View(ipt)
